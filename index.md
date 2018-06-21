@@ -26,10 +26,13 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: false
+tags: []
+slug: ''
 menu:
   navigation:
     name: Home
     identifier: _index
     url: "/"
     weight: 1
+published: false
 ---

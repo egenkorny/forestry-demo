@@ -28,6 +28,8 @@ show_news: true
 show_staff: false
 tags: []
 slug: ''
+publish_date: 2018-06-19 21:00:00 +0000
+description: "Домашняя - шаблон по умолчанию!"
 menu:
   navigation:
     name: Home
